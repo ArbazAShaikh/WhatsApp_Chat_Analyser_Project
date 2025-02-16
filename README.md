@@ -1,20 +1,8 @@
-# WhatsApp_Chat_Analyser_Project
-🚀 WhatsApp Chat Analyzer – Uncover Insights from Your Conversations! 📊💬
+# Introduction:
+Whatsapp has quickly become the world’s most popular text and voice messaging application. Specializing in cross-platform messaging with over 1.5 billion monthly active users, this makes it the most popular mobile messenger app worldwide.
 
-I’m excited to share my latest project, WhatsApp Chat Analyzer, which helps users extract meaningful insights from their WhatsApp conversations. This project was a great opportunity to apply my skills in data analysis, visualization, and web deployment while building something practical and interactive.
+I thought of various projects on which I could analyse data like - Air Quality Index or The cliched Covid-19 Data Analysis.
 
-🔹 Project Overview
-📌 Purpose: Analyze WhatsApp chat data to extract insights like most active users, frequently used words, and message trends.
-📌 Technologies Used: Python, Pandas, Matplotlib, Seaborn, Streamlit
-📌 Key Features:
-✅ Chat Statistics: Total messages, word count, media shared, and links sent
-✅ User Activity Analysis: Identify the most active participants in a group chat
-✅ Word Cloud: Visualize the most frequently used words in the chat
-✅ Message Trends: Track daily and monthly activity patterns
-✅ Emoji Analysis: Find out the most used emojis in the conversation
-✅ Interactive Dashboard: Built with Streamlit for easy exploration
+But I thought why not do Data Analysis on a WhatsApp group chat of college students and find out interesting insights about who is most active, who are ghosts (the ones who do not reply), my sleep schedule, the most used emoji, the most actives times of the day, or does the group use phones during college teaching hours?
 
-🎯 What I Learned
-💡 Data Preprocessing: Handling raw WhatsApp chat exports and structuring them into a clean dataset
-💡 Data Visualization: Creating insightful graphs using Matplotlib and Seaborn
-💡 Web Deployment: Hosting the project on Heroku for easy access
+These would be some interesting insights for sure, more for me than for you, since the people in this chat are people I know personally.
